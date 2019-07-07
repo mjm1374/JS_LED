@@ -1,0 +1,24 @@
+body{
+    background: #000;
+    color:#ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.block{
+    border: 0px solid black;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    margin:0;
+    padding:0;
+
+}
+
+#color__holder {
+    line-height: 0px;
+    display:block;
+    margin:0 auto;
+    border: 3px solid black;
+    width: fit-content;
+    height: auto;
+}
